@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 <img width=360 align="center" src="https://streak-stats.demolab.com?user=zzyking&border_radius=6&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=480&card_height=200" alt="GitHub Streak" />
 </a>
 <br/>
+<a>
+<img width=700 align="center" src="https://github.com/zzyking/zzyking/blob/output/github-contribution-grid-snake-dark.svg" />
+</a>
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=315 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@zzyking&layout=compact&border_radius=6&hide_border=true&theme=tokyonight&langs_count=20") />
 </a>
