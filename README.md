@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->                  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=zzyking&border_radius=6&hide_border=true&show_icons=true&count_private=true&card_width=340&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats-fawn-ten-30.vercel.app/api?username=zzyking&border_radius=6&hide_border=true&show_icons=true&count_private=true&card_width=340&theme=tokyonight" />
 </a>
 <a href="https://git.io/streak-stats">
 <img width=360 align="center" src="https://github-readme-streak-stats-rouge-three.vercel.app?user=zzyking&border_radius=6&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=480&card_height=200" alt="GitHub Streak" />
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=315 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@zzyking&layout=compact&border_radius=6&hide_border=true&theme=tokyonight&langs_count=20") />
+  <img height=315 align="center" src="https://github-readme-stats-fawn-ten-30.vercel.app/api/wakatime?username=@zzyking&layout=compact&border_radius=6&hide_border=true&theme=tokyonight&langs_count=20") />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=315 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzyking&layout=donut-vertical&theme=tokyonight&border_radius=6&hide_border=true&langs_count=8" />
+  <img height=315 align="center" src="https://github-readme-stats-fawn-ten-30.vercel.app/api/top-langs?username=zzyking&layout=donut-vertical&theme=tokyonight&border_radius=6&hide_border=true&langs_count=8" />
 </a>
 
 ###
