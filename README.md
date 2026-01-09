@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->                  
+-->
+
+- Bio: [zzyking.github.io](https://zzyking.github.io/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats-fawn-ten-30.vercel.app/api?username=zzyking&border_radius=6&hide_border=true&show_icons=true&count_private=true&card_width=340&theme=tokyonight" />
