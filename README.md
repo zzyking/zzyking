@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=315 align="center" src="https://github-readme-stats-fawn-ten-30.vercel.app/api/wakatime?username=@zzyking&layout=compact&border_radius=6&hide_border=true&theme=tokyonight&langs_count=20") />
+  <img height=315 align="center" src="https://github-readme-stats-fawn-ten-30.vercel.app/api/wakatime?username=@zzyking&layout=compact&border_radius=6&hide_border=true&theme=tokyonight&langs_count=20" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=315 align="center" src="https://github-readme-stats-fawn-ten-30.vercel.app/api/top-langs?username=zzyking&layout=donut-vertical&theme=tokyonight&border_radius=6&hide_border=true&langs_count=8" />
